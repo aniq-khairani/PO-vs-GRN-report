@@ -1,3 +1,14 @@
 # PO-vs-GRN-report
 
-https://github.com/aniq-khairani/PO-vs-GRN-report/blob/main/images/po-vs-grn.png
+*remark: data shown is not the updated*
+
+## 📊 Dashboard Preview
+![Dashboard](images/po-vs-grn.png)
+
+## 🚀 Live Demo 
+- [View Power BI Dashboard]()
+
+## 🛠 Tools Used
+- Power BI
+- Redshift
+- Glue
